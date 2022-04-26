@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello 👋
+
+🌱 I’m currently learning Python
+
+🤔 I’m looking for help with NodeJS
+
 
 <!--
 **quantum52/quantum52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
